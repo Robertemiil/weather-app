@@ -1,4 +1,4 @@
 
-# Template
+# Weather App 
 
 ## the odin project
